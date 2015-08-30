@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS481
-title: CS481 - Senior Software Project I
+title: Senior Software Project I
 ---
 
 ------------------------
