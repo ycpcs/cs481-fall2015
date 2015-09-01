@@ -22,13 +22,18 @@ title: Syllabus
 **Email:** <jmoscola@ycp.edu><br>
 **Office:** KEC 108<br>
 **Phone:** (717) 815-1276<br>
-**Office Hours:** M W F: 3:00 PM - 4:00 PM; 		          Tu Th: 11:00 AM - 12:00 PM
+**Office Hours:** <br>&nbsp;&nbsp;&nbsp;&nbsp;
+M W F: 3:00 PM - 4:00 PM;<br>&nbsp;&nbsp;&nbsp;&nbsp;
+Tu Th: 11:00 AM - 12:00 PM
 
 >[Don Hake](??)<br>
 **Email:** <djhake2@ycp.edu><br>
 **Office:** KEC 137<br>
 **Phone:** (717) 815-6587<br>
-**Office Hours:** ??; 
+**Office Hours:** <br>&nbsp;&nbsp;&nbsp;&nbsp;
+M: 10:00 AM - 12:00 PM;<br>&nbsp;&nbsp;&nbsp;&nbsp;
+T Th: 11:00 AM - 12:00 PM;<br>&nbsp;&nbsp;&nbsp;&nbsp;
+W F: 11:20 AM - 11:50 AM, 1:20 PM - 1:50 PM
 
 
 ------------------

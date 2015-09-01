@@ -36,7 +36,7 @@ We **strongly** encourage you to meet with us to discuss project ideas before yo
 
 Your second task is to create a main repository for your project on [GitHub](https://github.com).
 
-You should add all of your team members as contributors to the repository.  Also, add the instructors (GitHub users [dbabcock](https://github.com/dbabcock) and [daveho](https://github.com/daveho)) as contributors.
+You should add all of your team members as contributors to the repository.  Also, add the instructors (GitHub users [jmoscola](https://github.com/jmoscola) and [DonaldHakeII](https://github.com/DonaldHakeII)) as contributors.
 
 In the issue tracker for the main repository, create three labels:
 
