@@ -18,7 +18,7 @@ Your first task is to propose a group project that your team will work on. Your 
 
 Write a 1 to 2 page report describing the project. The report should include the following information:
 
--   Who are the members of your group? Your group should have at least 3 members, but not more than 5.
+-   Who are the members of your group? Your group should have at least 3 members, but not more than 4.
 -   What is the URL of the main repository for your project?  (See next task.)
 -   What problem is solved by the system your group will implement?
 -   What are the major technical challenges you will face?
@@ -53,7 +53,7 @@ Your third task is for each group member to set up a computing environment with 
 
 You may use the physical space and computing equipment as you see fit.  Please be considerate of the needs of other groups, and please try to keep the environment neat and well-organized.
 
-Please note that you aren't required to use one of the PCs: you can use your own laptop if you would prefer.  Also note that physical space is somewhat limited, and that it may not be feasible for all of the students in the course to have a physical work area.
+Please note that you aren't required to use one of the PCs: you can use your own laptop if you would prefer.
 
 ------------------
 # Grading
