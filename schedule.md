@@ -8,7 +8,7 @@ This is the course schedule for CS 481.
 
 > Assignment | Due
 > ---------- | ---
-> [Assignment 1: Project Proposal](assign/assign01.html) | Proposal due Friday Sep 11th, Readiness demo on Monday Sep 14th
+> [Assignment 1: Project Proposal](assign/assign01.html) | Proposal due Thursday, Sep 10th by 11:59 PM, Readiness demo on Monday Sep 14th
 > Assignment 2: Weekly Progress Demos | 
 > Assignment 3: Requirements | 
 > Assignment 4: Analysis and Design | 
