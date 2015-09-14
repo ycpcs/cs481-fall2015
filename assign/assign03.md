@@ -30,10 +30,10 @@ Be sure that as progress on the project proceeds, issues are labeled appropriate
 ----------
 # Grading Criteria
 
--   Creation of milestones: **15%**
--   Creation of general issues describing high level functionality for all three milestones: **15%**
--   Detailed descriptions of general issues: **25%**
--   Creation of detailed issues for minimal working system components: **20%**
--   Detailed descriptions of minimal working system issues: **25%**
+-   Create milestones in the github issue tracker: **15%**
+-   Create a general list of issues describing the high level functionality for all three milestones: **15%**
+-   For each of the general issues, create detailed descriptions: **25%**
+-   Create a detailed list of issues for the minimal working system components: **20%**
+-   For each of the minimal working system issues, create detailed descriptions: **25%**
 
  
