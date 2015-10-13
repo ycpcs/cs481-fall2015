@@ -15,9 +15,9 @@ Your task is to document the requirements for your project by adding them as iss
 
 Milestones should be created for the following system states:
 
--   **Minimal Working System (Monday, October 12th)** - this milestone will include the core object model classes and corresponding unit test framework for the system. It should also include a basic functional user interface (possibly console based) to demonstrate functionality.
--   **50% Working System (Monday, November 9th)** - this milestone will expand the minimal working system to include additional functionality and an initial graphical interface
--   **Final Working System (Friday, December 18th)** - this milestone should demonstrate all the features of the complete and integrated system
+-   **Minimal Working System** - this milestone will include the core object model classes and corresponding unit test framework for the system. It should also include a basic functional user interface (possibly console based) to demonstrate functionality.
+-   **50% Working System** - this milestone will expand the minimal working system to include additional functionality and an initial graphical interface
+-   **Final Working System** - this milestone should demonstrate all the features of the complete and integrated system
 
 ## Issues
 
