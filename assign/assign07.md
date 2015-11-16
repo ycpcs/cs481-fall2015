@@ -6,9 +6,9 @@ title: Final System, Report, and Presentation
 
 **Draft Report Due:** Wednesday, Dec 16th by 11:59 PM
 
-**Presentations:** Monday, Dec 21th at 1:00 PM in KEC 119
+**Presentations:** Monday, Dec 21st at 1:00 PM in KEC 119
 
-**Final Report Due:** Monday, Dec 21th by 11:59 PM
+**Final Report Due:** Monday, Dec 21st by 11:59 PM
 
 This is a **Team** assignment.
 
